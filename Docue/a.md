@@ -61,3 +61,5 @@ Execute has major on step.
 Execute has major on base.
 
 Execute has major on done.
+
+Execute has major on any.
