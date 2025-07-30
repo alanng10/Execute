@@ -63,3 +63,5 @@ Execute has major on base.
 Execute has major on done.
 
 Execute has major on any.
+
+Execute has major on effect.
