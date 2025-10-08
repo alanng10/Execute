@@ -67,3 +67,5 @@ Execute has major on will.
 Execute has major on any.
 
 Execute has major on effect.
+
+Execute Worth is execute gain worth.
